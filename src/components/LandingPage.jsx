@@ -4,7 +4,7 @@ import StartProject from './buttons/StartProject';
 
 const LandingPage = () => {
   return (
-    <div className="w-full min-h-auto">
+    <div className="w-full h-screen">
       <div className="text tracking-tight font-[Founders] pl-13 pt-24 pb-15">
         <div className="-mb-10">
           <h1 className="text-[19vh] text-[#212121]">WE CREATE</h1>
